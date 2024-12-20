@@ -50,8 +50,7 @@ Make sure to change these details manually.
 
 Installing ports is very easy ![image](https://github.com/user-attachments/assets/7496b68d-7324-42c5-920e-c3ed3d6eb940)
 
-Installing the egg is also easy, follow the screenshots
-
+Installing the egg is also easy, follow the screenshots, you just need to download the json file for your programming language, I will have [nodejs](https://github.com/makimav/pterodactyl-install/blob/main/nodejs.json) for example, and you download the file itself to add it to your panel!
 ![image](https://github.com/user-attachments/assets/84dde801-1a13-42dd-be20-1501cd5942b2)
 
 ![image](https://github.com/user-attachments/assets/05864760-754c-4b74-a020-a0eae68cef88)
