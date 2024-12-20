@@ -5,13 +5,13 @@
 
 ### Full auto installation
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/BoryaGames/pterodactyl-install/refs/heads/main/pterodactyl-install.sh) full
+bash <(curl -s https://raw.githubusercontent.com/makimav/pterodactyl-install/refs/heads/main/pterodactyl-install.sh) full
 ```
 This command will automatically install and configure Pterodactyl panel and wings, no manual configuration required, but you must add eggs you need manually or use default ones.
 
 ### Panel installation
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/BoryaGames/pterodactyl-install/refs/heads/main/pterodactyl-install.sh) panel
+bash <(curl -s https://raw.githubusercontent.com/makimav/pterodactyl-install/refs/heads/main/pterodactyl-install.sh) panel
 ```
 This command will automatically install and configure Pterodactyl panel, you can't create servers until you add a node manually.
 
@@ -33,7 +33,7 @@ After you have exited, do `systemctl restart wings` to restart your node.
 
 ### Node installation
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/BoryaGames/pterodactyl-install/refs/heads/main/pterodactyl-install.sh) node
+bash <(curl -s https://raw.githubusercontent.com/makimav/pterodactyl-install/refs/heads/main/pterodactyl-install.sh) node
 ```
 This command will automatically install and configure Pterodactyl wings, you need to connect this node to the panel manually.
 
