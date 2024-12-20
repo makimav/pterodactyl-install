@@ -47,3 +47,15 @@ Once you have installed the panel, you can login using these details:
 Database password is also `admin`.
 
 Make sure to change these details manually.
+
+Installing ports is very easy ![image](https://github.com/user-attachments/assets/7496b68d-7324-42c5-920e-c3ed3d6eb940)
+
+Installing the egg is also easy, follow the screenshots
+
+![image](https://github.com/user-attachments/assets/84dde801-1a13-42dd-be20-1501cd5942b2)
+
+![image](https://github.com/user-attachments/assets/05864760-754c-4b74-a020-a0eae68cef88)
+
+![image](https://github.com/user-attachments/assets/39012a60-9330-4a8a-aa94-abaceac4f477)
+
+![image](https://github.com/user-attachments/assets/4383f937-547d-44bf-8274-5de78885925b)
